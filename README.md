@@ -1,9 +1,9 @@
 # Dani - UOMI Agent
 
 **Dani** is a simple UOMI Agent that:
-- Welcomes users
+- Welcomes new users
 - Tracks faucet claim events
-- Prints useful logs when running
+- Demonstrates how an agent can handle different events in the UOMI ecosystem
 
 ---
 
